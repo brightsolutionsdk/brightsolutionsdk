@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @brightsolutions.dk
+- 👀 I’m using github for wordpress development - custom plugins, themes etc. 
+- 📫 Contact me on tommy@brightsolutions.dk
+- ⚡ Fun fact: ...
